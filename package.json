@@ -1,0 +1,14 @@
+{
+    "author" : "Roberto Sales <robertosalesc@dcc.ufba.br>",
+    "name": "vardefined",
+    "version": "0.0.1",
+    "description": "simple function to check if given obj is undefined and return optional parameter if its not",
+    "keywords": ["defined", "variable", "undefined"],
+    "license": "MIT",
+    "main": "index.js",
+    "readmeFilename": "README.md",
+    "repository":{
+        "type": "git",
+        "url": "http://github.com/skywalkerd/vardefined.git"
+    }
+}
