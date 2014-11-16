@@ -10,6 +10,6 @@
 
 module.exports = function(obj, opt){
     if(arguments.length > 1)
-        return obj !== undefined && obj != null ? obj : opt;
-    return obj !== undefined && obj != null;
+        return obj != null ? obj : opt;
+    return obj != null;
 };
